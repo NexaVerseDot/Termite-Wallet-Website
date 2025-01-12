@@ -1,3 +1,3 @@
-# Unstoppable Wallet Website
+# Termite Wallet Website
 
-https://unstoppable.money/
+https://termite.money/
