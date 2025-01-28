@@ -11,7 +11,7 @@ function BannerPremium() {
           <img
             className="Banner-img"
             src="/images/banner/premium.png"
-            alt="Unstoppable wallet"
+            alt="Termite wallet"
           />
         </div>
         <div className="Banner-end">

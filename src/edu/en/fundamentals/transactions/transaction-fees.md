@@ -24,7 +24,7 @@ Transaction fees are **not fixed**; they fluctuate based on the current state of
 
 If your transaction fee is set well below the network's average, your transaction may remain pending for hours or even days. In extreme cases, it may be rejected entirely, as if it were never sent. On the other hand, paying a fee above the average ensures that your transaction is processed quickly, often within seconds or minutes, depending on the blockchain's conditions. ⏳
 
-Some wallet apps, including Unstoppable, recommend the optimal transaction fee based on current network conditions, helping you find the right balance between cost and speed. ⚖️
+Some wallet apps, including Termite, recommend the optimal transaction fee based on current network conditions, helping you find the right balance between cost and speed. ⚖️
 
 When sending large sums or time-sensitive payments, it's wise to set a transaction fee above the average to ensure your transfer reaches its destination without delay. 🚀
 

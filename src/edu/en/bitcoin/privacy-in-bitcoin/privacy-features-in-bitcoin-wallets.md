@@ -14,7 +14,7 @@ Many popular non-custodial wallets, especially hardware wallets, are not always 
 
 Some non-custodial wallets, primarily SPV-enabled wallet apps, verify transactions without downloading the entire blockchain, using filters to check for relevant transactions. This allows for some level of privacy in a mobile-based wallet app, though the synchronization process is much slower compared to non-private, non-custodial wallet apps. 🐢
 
-Some wallets also offer fast synchronization via independent third-party providers. For example, Unstoppable Wallet offers three different synchronization options, allowing users to balance privacy and convenience. ⚖️
+Some wallets also offer fast synchronization via independent third-party providers. For example, Termite Wallet offers three different synchronization options, allowing users to balance privacy and convenience. ⚖️
 
 In conclusion, privacy-conscious users should weigh the trade-offs between convenience and privacy when choosing a wallet. For maximum privacy, consider using a full-node wallet or an SPV wallet that doesn't track your IP addresses or deposit addresses. 🎭
 
@@ -24,7 +24,7 @@ The way a wallet constructs a transaction can also impact user privacy. The orde
 
 The default ordering of inputs and outputs can sometimes hint at which output is the payment and which is the change. This information can be used by blockchain analysis tools to track fund flows and potentially deanonymize users. 🕵️‍♂️
 
-Some privacy-focused wallets (such as Unstoppable Wallet) implement **randomized or deterministic ordering** of inputs and outputs. This makes it harder for observers to guess which output belongs to the recipient and which is the change address. 🎲
+Some privacy-focused wallets (such as Termite Wallet) implement **randomized or deterministic ordering** of inputs and outputs. This makes it harder for observers to guess which output belongs to the recipient and which is the change address. 🎲
 
 Instead of using a predictable order (e.g., change address always last), these wallets shuffle the order of inputs and outputs. Some wallets might use algorithms to determine a non-obvious but consistent order. 🔀
 

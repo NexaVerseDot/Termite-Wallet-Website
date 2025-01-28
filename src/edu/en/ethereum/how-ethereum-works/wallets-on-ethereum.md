@@ -1,6 +1,6 @@
 # Wallets On Ethereum
 
-To interact with Ethereum, you need a non-custodial wallet app. An Ethereum wallet is an application that allows you to store, send, and receive Ether (ETH) and other Ethereum-based tokens. Most multi-currency, non-custodial wallet apps (e.g., Unstoppable Wallet) support Ethereum, making it easy for users to manage their assets on the platform.
+To interact with Ethereum, you need a non-custodial wallet app. An Ethereum wallet is an application that allows you to store, send, and receive Ether (ETH) and other Ethereum-based tokens. Most multi-currency, non-custodial wallet apps (e.g., Termite Wallet) support Ethereum, making it easy for users to manage their assets on the platform.
 
 There are a few key things to keep in mind about Ethereum wallets:
 

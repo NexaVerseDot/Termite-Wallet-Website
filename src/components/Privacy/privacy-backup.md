@@ -1,13 +1,13 @@
 # Privacy Policy
 
-Thank you for visiting Unstoppable Money [https://unstoppable.money/](https://unstoppable.money/).
+Thank you for visiting Termite Money [https://unstoppable.money/](https://unstoppable.money/).
 
 This website neither collects any data about its users nor employs any third-party analytics or data collecting services.
 
 
 # Privacy Policy
 
-Thank you for visiting Unstoppable Money [https://unstoppable.money/](https://unstoppable.money/).
+Thank you for visiting Termite Money [https://unstoppable.money/](https://unstoppable.money/).
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 

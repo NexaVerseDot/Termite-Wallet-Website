@@ -11,7 +11,7 @@ function GetWallet() {
     <Container clipped={false}>
       <div className="GetWallet">
         <div className="GetWallet-text text-gradient fw-normal">
-          Get the Unstoppable Wallet!
+          Get the Termite Wallet!
         </div>
         <div className="GetWallet-action">
           <GetWalletActions />

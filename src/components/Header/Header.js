@@ -73,7 +73,7 @@ class Header extends Component {
         <Container clipped={false}>
           <div className="navbar">
             <Link to="/" onClick={this.onClickHome}>
-              <img className="Header-logo" src="/images/HeaderLogo.svg" alt="Unstoppable Cryptocurrency Wallet" />
+              <img className="Header-logo" src="/images/HeaderLogo.svg" alt="Termite Cryptocurrency Wallet" />
             </Link>
 
             <div className="hide-on-mobile">

@@ -13,13 +13,13 @@ function Banner() {
           <img
             className="Banner-img"
             src="/images/banner/wallet.png"
-            alt="Unstoppable wallet"
+            alt="Termite wallet"
           />
         </div>
         <div className="Banner-end">
           <div className="Banner-end-content">
             <div className="Banner-title text-gradient">
-              Be Unstoppable
+              Be Termite
             </div>
             <div className="Banner-title-slogan my-2 py-2 mb-3">
               Unchain Assets | Go Borderless | Stay Private

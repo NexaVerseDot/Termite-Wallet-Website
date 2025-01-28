@@ -22,7 +22,7 @@ function Wc() {
             </div>
 
             <div className="fs-3 text-center">
-              Redirecting to Unstoppable Wallet
+              Redirecting to Termite Wallet
             </div>
 
             <a href={url} className="Button Button-yellow Button-circle my-5 border-0 w-100 justify-content-center text-decoration-none">

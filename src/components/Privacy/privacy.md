@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Thank you for visiting the website for Unstoppable Wallet app.
+Thank you for visiting the website for Termite Wallet app.
 
-The Unstoppable Wallet app doesn't collect any data or use analytics tools that may expose any data about its users. The wallet is designed to ensure a high level of privacy for its users.
+The Termite Wallet app doesn't collect any data or use analytics tools that may expose any data about its users. The wallet is designed to ensure a high level of privacy for its users.
 
 - user data always remains on the user's device.
 - the wallet doesn't collect any data about users.

@@ -2,7 +2,7 @@
 
 In practice, when you self-custody cryptocurrency, you essentially become the owner of a unique "**private key**," which grants you control over the cryptocurrency in a particular wallet. This key is not controlled by any entity other than yourself. However, anyone with access to that key can potentially spend the crypto assets it controls. 🔐
 
-Cryptocurrency wallet apps are tools designed to store and manage these private keys. These apps generate and securely store private keys, effectively making you **your own bank**. 🏦 With that private key, crypto wallet apps such as Unstoppable make owning, receiving, and spending cryptocurrency much more manageable. These apps are referred to as **non-custodial wallet apps**. 📱
+Cryptocurrency wallet apps are tools designed to store and manage these private keys. These apps generate and securely store private keys, effectively making you **your own bank**. 🏦 With that private key, crypto wallet apps such as Termite make owning, receiving, and spending cryptocurrency much more manageable. These apps are referred to as **non-custodial wallet apps**. 📱
 
 ## Crypto Wallets vs Crypto Wallet Apps
 

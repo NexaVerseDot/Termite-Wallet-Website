@@ -96,7 +96,7 @@ function FormPayment() {
           Payment completed
         </div>
         <div className="text-grey fs-6">
-          Now you can go to the Unstoppable Wallet and use the analytics tools
+          Now you can go to the Termite Wallet and use the analytics tools
         </div>
       </div>
       <Link to="/premium-profile" className="Button Button-yellow Button-circle mt-4 w-100 border-0 justify-content-center text-decoration-none">
