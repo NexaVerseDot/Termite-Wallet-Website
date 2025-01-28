@@ -2,7 +2,7 @@
 
 To reach out please use support.termite@protonmail.com or one of the following channels:
 
-- Reddit: https://www.reddit.com/r/UNSTOPPABLEWallet/
+- Reddit: https://www.reddit.com/r/TERMITEWallet/
 - Twitter: https://twitter.com/termitebyhs?lang=en
 - Github: https://github.com/NexaVerseDot
 - Telegram (Channel) : https://t.me/termite_announcements

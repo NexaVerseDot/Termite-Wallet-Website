@@ -8,4 +8,4 @@ Keeping wealth in **cash or hard assets** such as gold also comes with **securit
 
 Moreover, over the years, **Bitcoin** has proven to be an ideal **hedge against inflation**, often outperforming all other asset classes. While fiat savers are losing purchasing power, **Bitcoin holders (HODLers)** are gaining. 📈
 
-Contrary to common belief, mastering **crypto self-custody** is not a daunting task; it’s about understanding the fundamentals that can make you virtually **unstoppable**. 💪
+Contrary to common belief, mastering **crypto self-custody** is not a daunting task; it’s about understanding the fundamentals that can make you virtually **termite**. 💪

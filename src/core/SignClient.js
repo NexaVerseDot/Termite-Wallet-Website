@@ -8,8 +8,8 @@ class SignClient extends Client {
       metadata: {
         name: 'Termite Money',
         description: 'Termite Money Premium',
-        url: 'https://unstoppable.money',
-        icons: ['https://avatars.githubusercontent.com/u/40654219?s=200&v=4']
+        url: 'https://termite.money',
+        icons: ['https://avatars.githubusercontent.com/u/']
       }
     }
 

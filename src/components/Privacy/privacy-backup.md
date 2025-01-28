@@ -1,13 +1,13 @@
 # Privacy Policy
 
-Thank you for visiting Termite Money [https://unstoppable.money/](https://unstoppable.money/).
+Thank you for visiting Termite Money [https://termite.money/](https://termite.money/).
 
 This website neither collects any data about its users nor employs any third-party analytics or data collecting services.
 
 
 # Privacy Policy
 
-Thank you for visiting Termite Money [https://unstoppable.money/](https://unstoppable.money/).
+Thank you for visiting Termite Money [https://termite.money/](https://termite.money/).
 
 Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -53,9 +53,9 @@ When subscribing to our email newsletter, you may be asked to enter your name an
 
 As a newsletter subscriber, we keep a record of your IP address, the emails you open, and the links you click within those emails, so that we can more accurately recommend content, occasional third party offers and products that you might find valuable.
 
-Any personal information you provide to us, including and similar to your name and e-mail address will not be released, sold, or rented to any entities or individuals outside of https://unstoppable.money.
+Any personal information you provide to us, including and similar to your name and e-mail address will not be released, sold, or rented to any entities or individuals outside of https://termite.money.
 
-We will never ask for credit card details and request that you do not enter them on any of the forms on https://unstoppable.money.
+We will never ask for credit card details and request that you do not enter them on any of the forms on https://termite.money.
 
 To remove your data from our email server, simply unsubscribe through any one of our emails.
 

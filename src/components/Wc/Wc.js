@@ -9,7 +9,7 @@ import './Wc.scss'
 function Wc() {
   const urlParams = new URLSearchParams(window.location.search)
   const uri = urlParams.get('uri')
-  const url = `unstoppable.money://wc?uri=${encodeURIComponent(uri)}`
+  const url = `termite.money://wc?uri=${encodeURIComponent(uri)}`
 
   return (
     <Container>
