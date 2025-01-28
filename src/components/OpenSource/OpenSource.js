@@ -54,7 +54,7 @@ function OpenSource() {
             image="/images/opensource/wallet-scrutiny.svg"
             info={
               <>
-                The <a href="https://walletscrutiny.com/android/io.nexvax.bankwallet/" target="_blank" rel="noopener noreferrer"
+                The <a href="https://walletscrutiny.com/android/io.nexvax.termitewallet/" target="_blank" rel="noopener noreferrer"
                        className="color-link">WalletScrutiny.com</a> verifies that cryptocurrency wallets are indeed using the same publicly open
                 code they claim to. Termite is verifiably open source wallet.
               </>

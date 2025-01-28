@@ -3,15 +3,15 @@
       "apps": [],
       "details": [
            {
-             "appID": "HC4MCAXJ66.io.nexvax.bank-wallet",
+             "appID": "HC4MCAXJ66.io.nexvax.termite-wallet",
              "paths": ["/wc", "/referral", "/ton-connect"]
            },
            {
-             "appID": "HC4MCAXJ66.io.nexvax.bank-wallet.dev",
+             "appID": "HC4MCAXJ66.io.nexvax.termite-wallet.dev",
              "paths": ["/wc", "/referral", "/ton-connect"]
            },
            {
-             "appID": "HC4MCAXJ66.io.nexvax.bank-wallet.dev.testnet",
+             "appID": "HC4MCAXJ66.io.nexvax.termite-wallet.dev.testnet",
              "paths": ["/wc"]
            }
        ]

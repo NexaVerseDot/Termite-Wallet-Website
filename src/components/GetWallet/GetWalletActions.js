@@ -21,7 +21,7 @@ function GetWallet({ btnSteal }) {
           className={cn('Button-circle Button-nowrap', { 'Button-steal20': btnSteal })}
           text="Google Play"
           icon={btnSteal ? 'google-play-yellow' : 'google-play'}
-          link="https://play.google.com/store/apps/details?id=io.nexvax.bankwallet"
+          link="https://play.google.com/store/apps/details?id=io.nexvax.termitewallet"
           yellow={!btnSteal}
           steal20={btnSteal}
           newTab />
@@ -43,7 +43,7 @@ function GetWallet({ btnSteal }) {
           className="Button-circle Button-download"
           text="F-Droid"
           icon="f-droid"
-          link="https://f-droid.org/en/packages/io.nexvax.bankwallet/" newTab />
+          link="https://f-droid.org/en/packages/io.nexvax.termitewallet/" newTab />
         <Button
           className="Button-circle Button-download"
           text="APK file"

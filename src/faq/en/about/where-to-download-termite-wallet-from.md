@@ -8,7 +8,7 @@ App Store
 
 Google Play Market
 
-[https://play.google.com/store/apps/details?id=io.nexvax.bankwallet](https://play.google.com/store/apps/details?id=nexvax.bankwallet)
+[https://play.google.com/store/apps/details?id=io.nexvax.termitewallet](https://play.google.com/store/apps/details?id=nexvax.termitewallet)
 
 Github
 
@@ -16,4 +16,4 @@ Github
 
 Fdroid
 
-[https://f-droid.org/en/packages/io.nexvax.bankwallet/](https://f-droid.org/en/packages/io.nexvax.bankwallet/)
+[https://f-droid.org/en/packages/io.nexvax.termitewallet/](https://f-droid.org/en/packages/io.nexvax.termitewallet/)
