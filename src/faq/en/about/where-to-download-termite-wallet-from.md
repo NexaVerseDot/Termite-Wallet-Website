@@ -8,7 +8,7 @@ App Store
 
 Google Play Market
 
-[https://play.google.com/store/apps/details?id=io.nexvax.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
+[https://play.google.com/store/apps/details?id=io.nexvax.bankwallet](https://play.google.com/store/apps/details?id=nexvax.bankwallet)
 
 Github
 
