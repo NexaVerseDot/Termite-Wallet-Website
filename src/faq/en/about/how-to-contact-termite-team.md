@@ -1,18 +1,18 @@
 # How to contact the Termite Team
 
-To reach out, please use support.termite@protonmail.com, or one of the following channels:
+To reach out, please use support.termite@nexvax.com, or one of the following channels:
 
 Reddit
 
-[https://www.reddit.com/r/UNSTOPPABLEWallet/](https://www.reddit.com/r/UNSTOPPABLEWallet/)
+[https://www.reddit.com/r/TERMITEWallet/](https://www.reddit.com/r/TERMITEWallet/)
 
 Twitter
 
-[https://twitter.com/termitebyhs?lang=en](https://twitter.com/termitebyhs?lang=en)
+[https://twitter.com/termitebynv?lang=en](https://twitter.com/termitebynv?lang=en)
 
 Github
 
-[https://github.com/horizontalsystems](https://github.com/horizontalsystems)
+[https://github.com/NexaVerseDot](https://github.com/NexaVerseDot)
 
 Do not trust anyone outside official channels. There are a number of fake groups and channels impersonating the Termite team on Telegram and Twitter. Be aware!
 

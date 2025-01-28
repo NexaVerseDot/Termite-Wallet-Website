@@ -10,7 +10,7 @@ function Footer() {
     <Container>
       <div className="Divider" />
       <div className="Footer-bottom">
-        <a href="https://horizontalsystems.io" target="_blank" rel="noopener noreferrer">
+        <a href="https://nexvax.io" target="_blank" rel="noopener noreferrer">
           <img className="Logo" src="/images/HSlogo.svg" alt="" />
 
           <div className="Logo-icon">
@@ -18,7 +18,7 @@ function Footer() {
           </div>
         </a>
 
-        <span>@ 2023 HorizontalSystems</span>
+        <span>@ 2025 NexaVerse</span>
       </div>
     </Container>
   )

@@ -2,8 +2,8 @@
 
 The Termite wallet app has been a work in progress since late 2017, and counts over 100,000 engineering hours!
 
-- [https://github.com/horizontalsystems/termite-wallet-ios](https://github.com/horizontalsystems/termite-wallet-ios)
-- [https://github.com/horizontalsystems/termite-wallet-android](https://github.com/horizontalsystems/termite-wallet-android)
+- [https://github.com/NexaVerseDot/termite-wallet-ios](https://github.com/NexaVerseDot/termite-wallet-ios)
+- [https://github.com/NexaVerseDot/termite-wallet-android](https://github.com/NexaVerseDot/termite-wallet-android)
 
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities, and takes a comprehensive approach towards privacy, decentralization and usability.
 

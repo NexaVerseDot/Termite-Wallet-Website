@@ -2,9 +2,9 @@
 
 To reach out please use support.termite@protonmail.com or one of the following channels:
 
-- Reddit: https://www.reddit.com/r/UNSTOPPABLEWallet/
+- Reddit: https://www.reddit.com/r/TERMITEWallet/
 - Twitter: https://twitter.com/termitebyhs?lang=en
-- Github: https://github.com/horizontalsystems
+- Github: https://github.com/NexaVerseDot
 - Telegram (Channel) : https://t.me/termite_announcements
 
 Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the Termite team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.

@@ -20,7 +20,7 @@ function OpenSource() {
             image="/images/opensource/bitcoin.svg"
             info={
               <>
-                Termite has been listed by <a href="https://bitcoin.org/en/wallets/mobile/ios/unstoppable/" target="_blank"
+                Termite has been listed by <a href="https://bitcoin.org/en/wallets/mobile/ios/termite/" target="_blank"
                                                   rel="noopener noreferrer" className="color-link">Bitcoin.org</a>, one of the leading informational
                 resources for Bitcoin,
                 and recommended for both new and experienced users alike.
@@ -32,7 +32,7 @@ function OpenSource() {
             image="/images/opensource/certik.svg"
             info={
               <>
-                Termite was audited by <a href="https://www.certik.org/projects/unstoppable.money" target="_blank" rel="noopener noreferrer"
+                Termite was audited by <a href="https://www.certik.org/projects/termite.money" target="_blank" rel="noopener noreferrer"
                                               className="color-link">Certik.org</a> where both iOS and Android versions of the app were checked for
                 potential backdoors and vulnerabilities. No major or minor issues were found.
               </>
@@ -43,7 +43,7 @@ function OpenSource() {
             image="/images/opensource/immunefi.svg"
             info={
               <>
-                Termite was audited by <a href="https://immunefi.com/bounty/unstoppablewallet/" target="_blank" rel="noopener noreferrer"
+                Termite was audited by <a href="https://immunefi.com/bounty/termitewallet/" target="_blank" rel="noopener noreferrer"
                                               className="color-link">Immunefi.com</a> where both iOS and Android versions of the app were checked for
                 potential backdoors and vulnerabilities. No major or minor issues were found.
               </>
@@ -54,7 +54,7 @@ function OpenSource() {
             image="/images/opensource/wallet-scrutiny.svg"
             info={
               <>
-                The <a href="https://walletscrutiny.com/android/io.horizontalsystems.bankwallet/" target="_blank" rel="noopener noreferrer"
+                The <a href="https://walletscrutiny.com/android/io.nexvax.bankwallet/" target="_blank" rel="noopener noreferrer"
                        className="color-link">WalletScrutiny.com</a> verifies that cryptocurrency wallets are indeed using the same publicly open
                 code they claim to. Termite is verifiably open source wallet.
               </>

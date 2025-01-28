@@ -64,7 +64,7 @@ class Header extends Component {
       <div className="nav">
         <a className="nav-item" target="_blank" rel="noopener noreferrer" href="https://litrex.academy">Academy</a>
         <Link className="nav-item" to="/faq">FAQ</Link>
-        <a className="nav-item" target="_blank" rel="noopener noreferrer" href="https://horizontalsystems.io/">About</a>
+        <a className="nav-item" target="_blank" rel="noopener noreferrer" href="https://nexvax.io/">About</a>
       </div>
     )
 

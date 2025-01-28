@@ -6,7 +6,7 @@ Always download Termite wallet app from official sources:
 
 - Google Play Market: [https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
 
-- Github: [https://github.com/horizontalsystems/termite-wallet-android/releases](https://github.com/horizontalsystems/termite-wallet-android/releases)
+- Github: [https://github.com/NexaVerseDot/termite-wallet-android/releases](https://github.com/NexaVerseDot/termite-wallet-android/releases)
 
 - Fdroid:
 

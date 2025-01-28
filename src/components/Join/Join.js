@@ -18,34 +18,34 @@ function Join() {
           <div className="Page-start">
             <div className="Join-icons">
               <div className="Join-icon">
-                <a href="https://twitter.com/unstoppablebyhs" target="_blank" rel="noopener noreferrer">
+                <a href="https://twitter.com/termitebynv" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/twitter@3x.png" alt="Twitter" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://github.com/horizontalsystems/" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/NexaVerseDot/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/github@3x.png" alt="github" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://t.me/unstoppable_announcements" target="_blank" rel="noopener noreferrer">
+                <a href="https://t.me/termite_announcements" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/telegram@3x.png" alt="telegram" />
                 </a>
               </div>
             </div>
             <div className="Join-icons">
               <div className="Join-icon">
-                <a href="https://www.reddit.com/r/UNSTOPPABLEWallet/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.reddit.com/r/TERMITEWallet/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/reddit@3x.png" alt="reddit" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://discord.gg/3uECHQ3cEk" target="_blank" rel="noopener noreferrer">
+                <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/discord@3x.png" alt="discord" />
                 </a>
               </div>
               <div className="Join-icon">
-                <a href="https://unstoppablewallet.medium.com/" target="_blank" rel="noopener noreferrer">
+                <a href="https://termitewallet.medium.com/" target="_blank" rel="noopener noreferrer">
                   <img className="Join-image" src="/images/join/medium@3x.png" alt="medium" />
                 </a>
               </div>

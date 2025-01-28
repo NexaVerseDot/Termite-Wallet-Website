@@ -21,7 +21,7 @@ function GetWallet({ btnSteal }) {
           className={cn('Button-circle Button-nowrap', { 'Button-steal20': btnSteal })}
           text="Google Play"
           icon={btnSteal ? 'google-play-yellow' : 'google-play'}
-          link="https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet"
+          link="https://play.google.com/store/apps/details?id=io.nexvax.bankwallet"
           yellow={!btnSteal}
           steal20={btnSteal}
           newTab />
@@ -29,7 +29,7 @@ function GetWallet({ btnSteal }) {
           className={cn('Button-circle Button-nowrap', { 'Button-steal20': btnSteal })}
           text="App Store"
           icon={btnSteal ? 'app-store-yellow' : 'app-store'}
-          link="https://itunes.apple.com/app/bank-bitcoin-wallet/id1447619907?ls=1&mt=8"
+          link="https://itunes.apple.com/app/termite-wallet"
           yellow={!btnSteal}
           steal20={btnSteal}
           newTab />
@@ -43,22 +43,22 @@ function GetWallet({ btnSteal }) {
           className="Button-circle Button-download"
           text="F-Droid"
           icon="f-droid"
-          link="https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/" newTab />
+          link="https://f-droid.org/en/packages/io.nexvax.bankwallet/" newTab />
         <Button
           className="Button-circle Button-download"
           text="APK file"
           icon="android"
-          link="https://github.com/horizontalsystems/unstoppable-wallet-android/releases" newTab />
+          link="https://github.com/NexaVerseDot/termite-wallet-android/releases" newTab />
         <Button
           className="Button-circle Button-download"
           text="Github"
           icon="github"
-          link="https://github.com/horizontalsystems" newTab />
+          link="https://github.com/NexaVerseDot" newTab />
         <Button
           className="Button-circle Button-download"
           text="Gitlab"
           icon="gitlab"
-          link="https://gitlab.com/horizontal_systems" newTab />
+          link="https://gitlab.com/nexvax" newTab />
       </div>
       <div className="mt-4 pt-md-4 pt-sm-0">
         <a href="https://testflight.apple.com/join/JaKdKPY5" className="Banner-link" target="_blank" rel="noopener noreferrer">
